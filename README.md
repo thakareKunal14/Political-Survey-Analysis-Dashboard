@@ -73,16 +73,3 @@ The dataset contains survey responses from approximately **2000 respondents** ac
 
 ---
 
-## 🖥 Dashboard Development
-
-### 📸 Dashboard Preview
-
-(attachment:c48d9a54-c45d-4b25-990e-ccd3f232df01:Screenshot_(258).png)
-
-**Figure 1: Political Survey Analysis Dashboard**
-
-The dashboard provides insights into voter behavior, regional support trends, political party performance, key election issues, and urban vs rural analytics through dynamic visualizations and KPI tracking.
-
-(attachment:d7ebbc8b-b4b4-4d67-bfbc-362cd24e055d:Screenshot_(256).png)
-
-**Figure 4: Detail Dashboard Report**
